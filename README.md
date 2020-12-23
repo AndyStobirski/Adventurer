@@ -30,7 +30,7 @@ Whilst playing, save a game by typing:
 
 > SAVE GAME
 
-##A dventurerWIN Usage
+## AdventurerWIN Usage
 Pretty straightforwards, I think.
 
 
